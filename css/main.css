@@ -1,0 +1,29 @@
+body{
+    background-color: brown;
+}
+.text-block{
+    width: 1200px;
+    background-color: white;
+    margin: 200px auto;
+}
+.text-block-item{
+    width: 30%;
+    /*border: 1px solid black;*/
+    text-align: center;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    float: left; /* float: left; => Obyektlarni yonma-yon qo'yish stili */
+    margin: 0 20px;
+}
+.clear{
+    clear: both; /* clear: both; => float ishlatilgandan keyin tozalash stili  */
+}
+
+
+
+
+
+
+
+
+
